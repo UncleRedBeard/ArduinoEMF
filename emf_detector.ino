@@ -1,11 +1,11 @@
 /*
- * File:              calibrate_emf.ino
- * Author:         Uncle RedBeard
- * Date:             12-JAN-2015
+ * File:         calibrate_emf.ino
+ * Author:       Uncle RedBeard
+ * Date:         12-JAN-2015
  * Description:  attempts at calibarting a diy emf detector
- *                      using a 1M ohm resistor
- * Note:             Based on Aaron Alai's EMF Detector Project
- *                       http://aaronalai.com/emf-detector
+ *               using a 1M ohm resistor
+ * Note:         Based on Aaron Alai's EMF Detector Project
+ *               http://aaronalai.com/emf-detector
  */
 //----------------------------------------
 const int ANTENNA = 5;    //A5
