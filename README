@@ -3,4 +3,6 @@ Arduinio EMF Detector
 Frist module in larger diy ghost detector project. Initially, using a 1M ohm
 resistor connected to the antenna. It needs additional testing using different
 levels of resistors, but for now it works well. Also, I need to add
-functionality to use different colored LEDs to signal location of emf detection.
+functionality to use different colored LEDs to signal location of emf
+detection. It will eventually include a pre-recorded set of questions for
+automated playback when a fluctuation is detected.
